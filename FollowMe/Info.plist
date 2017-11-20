@@ -20,6 +20,15 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>MGLMapboxAccessToken</key>
+	<string>pk.eyJ1IjoicHJhdmVlbnBlbmR5YWxhIiwiYSI6ImNpeGptdWFzaDAwMHozMmwxYmU4cGU0ZzUifQ.eHiKLg7a47-6aM4cUPTWIw</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>FollowMe would like to access your current location</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+		<string>location</string>
+	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
